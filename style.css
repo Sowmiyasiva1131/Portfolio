@@ -403,7 +403,6 @@ ul li::marker {
   margin-top: 3%;
   justify-items: center;
   border-radius: 10px;
-  padding: 30px;
 }
 
 .grid-cards{
@@ -413,7 +412,7 @@ ul li::marker {
     linear-gradient(rgba(41, 12, 91, 0.582) ,#111,#111) padding-box,
     linear-gradient(135deg, #cd9eff, #a55bff, #dab7ff, #a861ff) border-box;
   padding: 30px;
-  margin: 20px;
+  margin: 20px ;
 }
 
 #certificate-img{
